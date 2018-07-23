@@ -1,0 +1,5 @@
+# CFDI REPORT
+## Author: andres.amaya.diaz@gmail.com
+
+## USAGE
+### node app <path_to_dir_with_xmls> [<optional_path_to_destination_file]
